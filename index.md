@@ -14,7 +14,7 @@ Google Play Services Privacy Policy
 •
 AdMob / Google Privacy & Terms
 Children's Privacy
-Our Services do not address anyone under the age of 16. We do not knowingly collect personally identifiable information from children under 16.
+Our Services do not address anyone under the age of 18. We do not knowingly collect personally identifiable information from children under 18.
 Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 Contact Us
